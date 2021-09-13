@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../src/Css/slick-animation.css"; 
+@import "../src/Css/slick-theme.css"; 
+@import "../src/Css/slick.css"; 
+@import "../src/Css/owl.carousel.min.css"; 
+@import "../src/Css/all.min.css"; 
+@import "../src/Css/animate.min.css"; 
+@import "../src/Css/dark.css";
+@import "../src/Css/flatpickr.min.css"; 
+@import "../src/Css/magnific-popup.css"; 
+@import "../src/Css/remixicon.css"; 
+@import "../src/Css/select2-bootstrap4.min.css"; 
+@import "../src/Css/select2.min.css"; 
+@import "../src/Css/variable.css"; 
+@import "../src/Css/fixed.css"; 
+@import "../src/Css/bootstrap.min.css";
+@import "../src/Css/typography.css";
+@import "../src/Css/style.css";  
+@import "../src/Css/responsive.css";

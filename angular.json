@@ -29,7 +29,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/Js/slick-animation.min.js",
+              "src/Js/custom.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -68,10 +71,12 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Application:build:production"
+              "browserTarget": "Application:build:production",
+              "port": 4500
             },
             "development": {
-              "browserTarget": "Application:build:development"
+              "browserTarget": "Application:build:development",
+              "port": 4500
             }
           },
           "defaultConfiguration": "development"
